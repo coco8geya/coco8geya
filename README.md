@@ -1,16 +1,50 @@
-## Hi there 👋
+# coco8geya
 
-<!--
-**coco8geya/coco8geya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+이 저장소는 제가 **웹과 GitHub를 배우기 위해 만든 개인 학습 공간**입니다.  
+아직 익숙하지 않지만, **하나씩 직접 해보며 익히는 과정**을 기록하고 있습니다.
 
-Here are some ideas to get you started:
+완성된 결과보다  
+**배우는 과정과 시도한 기록을 남기는 것**을 더 중요하게 생각합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 이 저장소를 만든 이유
+
+- 웹이 어떻게 만들어지는지 알고 싶어서
+- Git과 GitHub를 직접 써 보며 익히기 위해
+- 배운 내용을 잊지 않기 위해 기록으로 남기려고
+- 천천히라도 혼자 힘으로 해보기 위해
+
+---
+
+## 🙋‍♀️ 학습자 소개
+
+- 웹 개발 초보자
+- GitHub 사용을 연습 중
+- 틀리면서 배우는 단계
+- 기록하며 공부하는 방식 선호
+
+---
+
+## 📘 지금 배우고 있는 내용
+
+- HTML 기초
+- CSS 기초
+- JavaScript 기초
+- Git 기본 사용법
+- GitHub 저장소 관리
+- README 작성 연습
+
+> 잘 모르는 부분도 많지만  
+> **모르는 상태 그대로 기록하는 것을 목표**로 합니다.
+
+---
+
+## 📂 저장소 구성 (연습 중)
+
+```text
+coco8geya/
+├─ README.md   ← 학습 기록
+├─ index.html  ← 웹 연습 파일
+├─ css/
+└─ js/
